@@ -57,5 +57,3 @@ In order to execute program run the following command:
 ```bash
 ./mars_robot.rb "5 5" "1 2 N" "LMLMLMLMM" "3 3 E" "MMRMMRMRRM" 
 ```
-
-[Solution inspired by this article](https://theoryofe.co/2017/08/10/another-mars-rover-solution/)
